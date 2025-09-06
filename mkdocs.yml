@@ -5,7 +5,7 @@ theme:
 nav:
   - Inicio: index.md
   - Apuntes:
-      - Introducción: apuntes/intro.md
+      - Introducción: docs/apuntes/intro.md
 
 markdown_extensions:
   - admonition

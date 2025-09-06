@@ -1,18 +1,17 @@
-````markdown
 # 🐍 Python – Apuntes, Resúmenes e Ideas
 
 Este repositorio reúne **apuntes, resúmenes, fragmentos de código y experimentos en Python**.  
 La idea es mantener un espacio organizado donde documentar aprendizajes, probar ideas y guardar ejemplos útiles para futuros proyectos.
 
----
+
 
 ## 🚀 Uso local
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/TU-REPO.git
-   cd TU-REPO
-````
+   git clone https://github.com/EGholgado/Python.git
+   cd Python
+   ```
 
 2. (Opcional) Crear un entorno virtual:
 
@@ -28,7 +27,6 @@ La idea es mantener un espacio organizado donde documentar aprendizajes, probar 
    pip install -r requirements.txt
    ```
 
----
 
 ## 📂 Estructura del repositorio
 
@@ -41,7 +39,6 @@ La idea es mantener un espacio organizado donde documentar aprendizajes, probar 
  ┗ LICENSE            # Licencia AGPL-3.0
 ```
 
----
 
 ## 📖 Visualización local (opcional)
 
@@ -52,9 +49,8 @@ pip install mkdocs-material
 mkdocs serve
 ```
 
-Abrir en [http://127.0.0.1:8000](http://127.0.0.1:8000).
+Abrir en [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
----
 
 ## ⚖️ Licencia
 
@@ -64,4 +60,3 @@ Consulta el archivo [LICENSE](./LICENSE) para ver el texto completo.
 El despliegue local de la documentación utiliza **MkDocs** y el tema **Material for MkDocs**, ambos bajo licencia **MIT**.
 Estas herramientas no modifican la licencia del contenido de este repositorio.
 
-```
