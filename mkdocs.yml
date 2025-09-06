@@ -1,0 +1,14 @@
+site_name: "Python – Apuntes, Resúmenes e Ideas"
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Apuntes:
+      - Introducción: apuntes/intro.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
