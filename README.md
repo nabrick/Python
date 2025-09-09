@@ -4,7 +4,6 @@ Este repositorio reúne **apuntes, resúmenes, fragmentos de código y experimen
 La idea es mantener un espacio organizado donde documentar aprendizajes, probar ideas y guardar ejemplos útiles para futuros proyectos.
 
 
-
 ## 🚀 Uso local
 
 1. Clonar el repositorio:
@@ -26,7 +25,6 @@ La idea es mantener un espacio organizado donde documentar aprendizajes, probar 
    ```bash
    pip install -r requirements.txt
    ```
-
 
 ## 📂 Estructura del repositorio
 
