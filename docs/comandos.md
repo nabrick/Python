@@ -1,9 +1,9 @@
 #### jupyter
 
-Comando para convertir ipynb a py
+Comando para convertir py a ipynb
 > jupytext digemid.py --to notebook
 
-Comando para convertir py a ipynb
+Comando para convertir ipynb a py
 > jupytext digemid.ipynb --to py
 
 Comando para convertir ipynb a html
