@@ -8,7 +8,7 @@ La idea es mantener un espacio organizado donde documentar aprendizajes, probar 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/EGholgado/Python.git
+   git clone https://github.com/nabrick/Python.git
    cd Python
    ```
 
@@ -51,10 +51,7 @@ Abrir en [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 
 ## ⚖️ Licencia
-
 Este repositorio está publicado bajo la licencia **AGPL-3.0**.
 Consulta el archivo [LICENSE](./LICENSE) para ver el texto completo.
 
-El despliegue local de la documentación utiliza **MkDocs** y el tema **Material for MkDocs**, ambos bajo licencia **MIT**.
-Estas herramientas no modifican la licencia del contenido de este repositorio.
-
+El despliegue local de la documentación utiliza **MkDocs** y el tema **Material for MkDocs**, ambos bajo licencia **MIT**. Estas herramientas no modifican la licencia del contenido de este repositorio.
